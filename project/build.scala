@@ -15,7 +15,7 @@ object build extends Build {
   lazy val sharedSettings = Seq(
     scalaVersion := "2.11.7",
     organization := "unicredit",
-    name         := "AnnotationAdder"
+    name         := "ClassSubstituter"
   )
 
   lazy val plugin = Project(

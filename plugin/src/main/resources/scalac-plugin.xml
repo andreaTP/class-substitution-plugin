@@ -1,4 +1,4 @@
 <plugin>
-  <name>annotation-adder-plugin</name>
-  <classname>unicredit.AnnotationAdderPlugin</classname>
+  <name>class-substituter-plugin</name>
+  <classname>unicredit.ClassSubstituterPlugin</classname>
 </plugin>
